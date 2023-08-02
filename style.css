@@ -19,6 +19,9 @@ margin-bottom: -5px;
 
 .paragraph{
     font-size: 15px;
+    color: rgba(39, 39, 39, 0.60); 
+    font-family: Lato; 
+    font-weight: 400;
 }
 .p-btn{
 padding: 20px 43px;
@@ -55,6 +58,7 @@ h2{
 height: 538px;
 border-radius: 300px 300px 0px 0px;
 background: rgba(167, 33, 98, 0.15);
+color: rgba(39, 39, 39, 0.80); 
 
 }
 
@@ -64,6 +68,7 @@ background: rgba(167, 33, 98, 0.15);
 height: 538px;
 border-radius: 300px 300px 0px 0px;
 background: rgba(5, 151, 160, 0.15);
+color: rgba(39, 39, 39, 0.80); 
 }
 .feature-img3{
     text-align: center;
@@ -71,6 +76,7 @@ background: rgba(5, 151, 160, 0.15);
 height: 538px;
 border-radius: 300px 300px 0px 0px;
 background: rgba(71, 125, 17, 0.15);
+color: rgba(39, 39, 39, 0.80); 
 
 }
 #img3{
@@ -172,6 +178,14 @@ background: #FFF;
 .footer > .Feature-class{
     padding-top: 5%;
     color: #FFF;
+}
+.footer-paragraph{
+    color: rgba(255, 255, 255, 0.90); 
+    font-size: 15px; 
+}
+.fot-paragraph{
+    color: rgba(255, 255, 255, 0.40); 
+    font-size: 13px; 
 }
 
 
